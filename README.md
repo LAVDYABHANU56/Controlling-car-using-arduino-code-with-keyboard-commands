@@ -1,5 +1,5 @@
 # Controlling-car-using-arduino-code-with-keyboard-commands
-# Arduino code will be transferred to ESP8266 and it will connected to a motor drive in order control the car.All the runtime commands are provided in the code.We needto press the keys in order to move the car
+# Arduino code will be transferred to ESP8266 and it will connected to a motor drive in order control the car.All the runtime commands are provided in the code.We need to press the keys in order to move the car
 // Motor control pins
 const int motor1Pin1 = D1;  // IN1 for Motor 1
 const int motor1Pin2 = D2;  // IN2 for Motor 1
